@@ -1,3 +1,3 @@
 <h1> Financial data </h1>
 
-Status: Basic fincnial data for a simple project
+Status: Basic financial data for a simple project
